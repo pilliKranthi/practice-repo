@@ -1,5 +1,5 @@
 
-# My Project Name
+# My git practise
 
 ## Overview
 This project is a brief description of what this project is about.
